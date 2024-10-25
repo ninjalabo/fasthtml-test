@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fasthtml-test"
+  site-url: "https://ninjalabo.github.io/fasthtml-test"
+  description: "Test repository for fastHTML"
+  repo-branch: main
+  repo-url: "https://github.com/ninjalabo/fasthtml-test"
